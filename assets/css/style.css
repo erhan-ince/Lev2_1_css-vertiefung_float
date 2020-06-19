@@ -1,0 +1,30 @@
+body {
+   margin-left: 10%;
+}
+#jobs {
+   text-align: center;
+   width: 40%;
+}
+#jobs img {
+   height: 200px;
+   width: 1005;
+   float: left;
+   margin: 5px;
+}
+h1 {
+   text-align: center;
+   font-size: 3em;
+}
+p {
+   padding-top: 10px;
+   font-size: 1em;
+}
+#zucker {
+   width: 40%;
+}
+#zucker img {
+   height: 200px;
+   width: 150px;
+   float: right;
+   margin: 5px;
+}
